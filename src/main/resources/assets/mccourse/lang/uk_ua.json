@@ -1,3 +1,7 @@
 {
-  "item.mccourse.alexandrite": "Александрит"
+  "item.mccourse.alexandrite": "Александрит",
+  "item.mccourse.raw_alexandrite": "Сирий Александрит",
+
+  "item.mccourse.alexandrite_block": "Блок Сирого Александрита",
+  "item.mccourse.raw_alexandrite_block": "Блок Сирого Александрита"
 }
