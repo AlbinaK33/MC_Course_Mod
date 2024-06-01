@@ -2,6 +2,14 @@
   "item.mccourse.alexandrite": "Александрит",
   "item.mccourse.raw_alexandrite": "Сирий Александрит",
 
-  "item.mccourse.alexandrite_block": "Блок Сирого Александрита",
-  "item.mccourse.raw_alexandrite_block": "Блок Сирого Александрита"
+  "block.mccourse.alexandrite_block": "Блок Сирого Александрита",
+  "block.mccourse.raw_alexandrite_block": "Блок Сирого Александрита",
+  "block.mccourse.alexandrite_ore": "Блок Александритової Руди",
+  "block.mccourse.deepslate_alexandrite_ore": "Блок Александритової Руди з Глибокого Сланцю",
+  "block.mccourse.end_stone_alexandrite_ore": "Блок Александритової Руди з Каменю Краю",
+  "block.mccourse.nether_alexandrite_ore": "Блок Нітер Александритової Руди",
+
+
+  "creativetab.course_tab": "Вкладка курсу",
+  "creativetab.course_tab_2": "Вкладка курсу 2"
 }
